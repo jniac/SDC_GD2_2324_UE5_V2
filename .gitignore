@@ -76,3 +76,5 @@ DerivedDataCache/*
 TMP
 
 MEGASCANS
+
+.DS_Store
