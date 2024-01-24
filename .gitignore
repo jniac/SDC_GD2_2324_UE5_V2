@@ -74,6 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 TMP
+.DS_Store
 
 MEGASCANS
 
