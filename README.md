@@ -2,7 +2,10 @@
 
 Sup de Création — Projet Unreal — Blueprints, Materials...
 
-https://github.com/jniac/SDC_GD2_2324_UE5_LSP
+Dépots github:
+- [SDC_GD2_2324_UE5_V2 (UE5)](https://github.com/jniac/SDC_GD2_2324_UE5_V2)
+- [SDC_GD2_2324_UE5_LSP (UE5)](https://github.com/jniac/SDC_GD2_2324_UE5_LSP)
+- [sdc-gd2-2324 (web)](https://github.com/jniac/sdc-gd2-2324)
 
 ## Artefact 
 
