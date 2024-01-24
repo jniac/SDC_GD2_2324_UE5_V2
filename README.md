@@ -16,4 +16,8 @@ Attendu :
 - Rendu UE5 du landscape (UE5) dans le projet [SDC_GD2_2324_UE5_LSP](https://github.com/jniac/SDC_GD2_2324_UE5_LSP) (Version Control > Submit Content + VSCode push)
 - Rendu WEB : Capture d'écran statique + vidéo de l'artefact dans les deux projets (cf ci dessous).
 
+Contraintes rendu web : 
+- Image au format jpg taille max: 1Mo
+- Vidéo au format mp4 (h264) taille max: 15Mo
+
 <img src="md/Unreal-Engine-Artefact-Rendu.png">
